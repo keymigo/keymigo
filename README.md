@@ -7,10 +7,6 @@
 <div align="center">
   <a href="https://t.me/keymigo">
     <img src="https://img.shields.io/badge/-Telegram-27A7E7?style=for-the-badge&logo=telegram" alt="Telegram">
-  </a>
-  <a href="mailto:mirrox65@yande.ru">
-    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail" alt="Email">
-  </a>
 </div>
 
 ---
