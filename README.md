@@ -29,7 +29,7 @@
 
 |Название проекта|Описание проекта|Стек|
 |----------------|----------------|-----|
-|**A/B-тестирование новой механики оплаты** (__[github](https://github.com/keymigo/for_project_1)__)|Планирование и проведение A/B-теста, расчет ключевых метрик, проверка гипотез с помощью статистических методов (T-test, Chi-square, Bootstrap).|Python (pandas, numpy, scipy, statsmodels, matplotlib, seaborn)|
+|**A/B-тестирование новой механики оплаты** (__[github](https://github.com/keymigo/for_project_1)__)|Планирование и проведение A/B-теста, расчет ключевых метрик, проверка гипотез с помощью статистических методов.|Python (pandas, numpy, scipy, statsmodels, matplotlib, seaborn)|
 |**Продуктовый анализ маркетплейса** (__[github](https://github.com/keymigo/for_project_2)__)|Анализ пользовательского поведения, расчет retention, оценка product/market fit, проверка гипотез роста и визуализация инсайтов.|Python (pandas, numpy, matplotlib, seaborn|
 
 ---
