@@ -55,7 +55,6 @@
 * [Аналитик данных — karpov.courses (5 месяцев)](https://drive.google.com/file/d/1uuSkTyCo77cwPaUQOKRo78I_wQjY7bEs/view?usp=sharing)  
 * [Поколение Python — Stepik](https://drive.google.com/file/d/1QahvdbJAApCYjCNZ8ZBLQ7FTUWMP6jnL/view?usp=sharing)  
 * [Основы Python — karpov.courses](https://drive.google.com/file/d/1MplZeV_JjEA9TjgYjYRfyvXXCzrbAQL4/view?usp=sharing)
-# [Симулятор SQL — karpov.courses](https://karpov.courses/)  
 
 ---
 
