@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="400" height="250" src="https://media.giphy.com/media/3o7aD4SgM1ph7zReJi/giphy.gif" alt="animated hello" />
+  <img width="400" height="250" src="https://tenor.com/view/hello-world-animation-hello-coding-gif-1378121840400141809.gif" alt="animated hello" />
 </p>
 
 ### <p align="center">Привет, меня зовут Максим! 👋</p>
